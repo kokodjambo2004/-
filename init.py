@@ -26,4 +26,4 @@ insert_pos = bisect_left(values, target)
 print('Список:', values)
 print('Искомое число:', target)
 print('Индекс найденного элемента:', position)
-print('Позиция вставки bisect_left:', insert_pos)
+
